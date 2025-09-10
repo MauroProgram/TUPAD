@@ -102,6 +102,9 @@ Misiones completas automatizadas
 
 🛠️ Tecnologías Utilizadas
 
+🛠️ Tecnologías Utilizadas
+
 Lenguaje: Java
 Paradigma: Programación Orientada a Objetos
-IDE recomendado: Visual Studio Code con
+IDE recomendado: Visual Studio Code con Extension Pack for Java
+Version de Java: Java 8 o superior
