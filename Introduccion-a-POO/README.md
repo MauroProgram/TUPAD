@@ -100,7 +100,6 @@ Cálculos de autonomía y eficiencia
 Misiones completas automatizadas
 
 
-🛠️ Tecnologías Utilizadas
 
 🛠️ Tecnologías Utilizadas
 
