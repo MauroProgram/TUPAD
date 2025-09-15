@@ -1,0 +1,41 @@
+Características implementadas:
+1. Clase Empleado con encapsulamiento
+
+Todos los atributos son privados
+Getters y Setters para todos los atributos
+Control de acceso mediante encapsulamiento
+
+2. Uso de this
+
+Utilizado en ambos constructores para distinguir parámetros de atributos
+Usado en métodos para referenciar la instancia actual
+
+3. Constructores sobrecargados
+
+Constructor completo: Recibe id, nombre, puesto y salario
+Constructor simplificado: Recibe solo nombre y puesto, asigna ID automático y salario por defecto ($50,000)
+Ambos incrementan el contador totalEmpleados
+
+4. Métodos sobrecargados actualizarSalario
+
+Por porcentaje: actualizarSalario(double porcentaje)
+Por cantidad fija: actualizarSalario(int cantidadFija)
+
+5. Método toString()
+
+Formato legible: "Empleado [ID: X, Nombre: X, Puesto: X, Salario: $X.XX]"
+Útil para depuración y visualización
+
+6. Miembros estáticos
+
+totalEmpleados: Contador global de empleados
+siguienteId: Para generar IDs automáticos únicos
+mostrarTotalEmpleados(): Método estático que retorna el total
+
+7. Clase de prueba completa
+
+Instancia empleados con ambos constructores
+Demuestra métodos sobrecargados
+Prueba getters y setters
+Muestra el uso de métodos estáticos
+Formato de salida organizado y legible
